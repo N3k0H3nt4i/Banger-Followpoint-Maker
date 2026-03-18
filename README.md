@@ -1,5 +1,5 @@
 # Simple(Banger)-Followpoint-Generator
-Python program for creating followpoint
+Python program for creating followpoints
 
 # Usage
 + Download and run executable file from the releases
