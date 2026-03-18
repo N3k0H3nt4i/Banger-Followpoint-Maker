@@ -1,5 +1,6 @@
 # Simple(Banger)-Followpoint-Generator
-<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/f23c24c7-a01a-4961-be3b-f636e1baed27" />
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/7ae913c0-1ac2-49db-84c4-d3f107fc2165" />
+
 
 Python program for creating followpoints
 
