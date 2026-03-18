@@ -10,4 +10,4 @@ Python program for creating followpoint
 # TO DO
 + Make preview better 
 + Try to optimalize or change tkinter
-  
++ ~~Save and load config files~~
