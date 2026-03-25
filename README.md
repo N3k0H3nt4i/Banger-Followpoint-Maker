@@ -31,6 +31,7 @@ Python program for creating followpoints
 
 
 # TO DO
++ Add an cirlce generator
 + Make preview better 
 + Try to optimalize or change tkinter
 + ~~Save and load config files~~
